@@ -28,23 +28,23 @@
 | 8 | Vector Database | 向量数据库 | 已教 2026-08-29 |
 | 9 | Inference | 推理 | 已教 2026-08-30 |
 | 10 | Agent | 智能体 | 已教 2026-08-31 |
-| 11 | Hallucination | 幻觉 | 未教 |
-| 12 | API (Application Programming Interface) | 应用程序接口 | 未教 |
-| 13 | Latency | 延迟 | 未教 |
-| 14 | GPU (Graphics Processing Unit) | 图形处理器 | 未教 |
-| 15 | Parameters | 参数 | 未教 |
-| 16 | Pre-training | 预训练 | 未教 |
-| 17 | RLHF (Reinforcement Learning from Human Feedback) | 基于人类反馈的强化学习 | 未教 |
-| 18 | Transformer | Transformer 架构 | 未教 |
-| 19 | Diffusion Model | 扩散模型 | 未教 |
-| 20 | Multimodal | 多模态 | 未教 |
-| 21 | Prompt Engineering | 提示词工程 | 未教 |
-| 22 | System Prompt | 系统提示词 | 未教 |
-| 23 | Temperature | 温度（采样参数） | 未教 |
-| 24 | Zero-shot / Few-shot | 零样本 / 少样本 | 未教 |
-| 25 | Chain of Thought (CoT) | 思维链 | 未教 |
-| 26 | Function Calling / Tool Use | 函数调用 / 工具调用 | 未教 |
-| 27 | Benchmark | 基准测试 | 未教 |
-| 28 | Open Weights | 开放权重 | 未教 |
-| 29 | Alignment | 对齐 | 未教 |
-| 30 | AGI (Artificial General Intelligence) | 通用人工智能 | 未教 |
+| 11 | Hallucination | 幻觉 | 已教 2026-09-01 |
+| 12 | API (Application Programming Interface) | 应用程序接口 | 已教 2026-09-02 |
+| 13 | Latency | 延迟 | 已教 2026-09-03 |
+| 14 | GPU (Graphics Processing Unit) | 图形处理器 | 已教 2026-09-04 |
+| 15 | Parameters | 参数 | 已教 2026-09-05 |
+| 16 | Pre-training | 预训练 | 已教 2026-09-06 |
+| 17 | RLHF (Reinforcement Learning from Human Feedback) | 基于人类反馈的强化学习 | 已教 2026-09-07 |
+| 18 | Transformer | Transformer 架构 | 已教 2026-09-08 |
+| 19 | Diffusion Model | 扩散模型 | 已教 2026-09-09 |
+| 20 | Multimodal | 多模态 | 已教 2026-09-10 |
+| 21 | Prompt Engineering | 提示词工程 | 已教 2026-09-11 |
+| 22 | System Prompt | 系统提示词 | 已教 2026-09-12 |
+| 23 | Temperature | 温度（采样参数） | 已教 2026-09-13 |
+| 24 | Zero-shot / Few-shot | 零样本 / 少样本 | 已教 2026-09-14 |
+| 25 | Chain of Thought (CoT) | 思维链 | 已教 2026-09-15 |
+| 26 | Function Calling / Tool Use | 函数调用 / 工具调用 | 已教 2026-09-16 |
+| 27 | Benchmark | 基准测试 | 已教 2026-09-17 |
+| 28 | Open Weights | 开放权重 | 已教 2026-09-18 |
+| 29 | Alignment | 对齐 | 已教 2026-09-19 |
+| 30 | AGI (Artificial General Intelligence) | 通用人工智能 | 已教 2026-09-20 |
